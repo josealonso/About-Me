@@ -22,7 +22,7 @@ let resumeData = {
       "className": "fa fa-skype"
     }
   ],
-  "aboutme": "I finished my B.E. in Electronics Engineering before 2010 and have been working as a Software developer sine then.",
+  "aboutme": "I finished my B.E. in Electronics Engineering before 2010 and have been working as a Software developer since then.",
   "address": "Spain",
   "website": "https://www.codeclassifiers.com",
   "education": [
