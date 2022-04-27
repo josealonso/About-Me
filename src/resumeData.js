@@ -61,18 +61,32 @@ let resumeData = {
   ],
   "work": [
     {
-      "CompanyName": "Some Company",
-      "specialization": "Some specialization",
-      "MonthOfLeaving": "Jan",
-      "YearOfLeaving": "2018",
-      "Achievements": "Some Achievements"
+      "CompanyName": "Freelance Solidity Developer",
+      "specialization": "Solidity, hardhat, TS",
+      "MonthOfLeaving": "Nov. 2021",
+      "YearOfLeaving": " - currently",
+      "Achievements": "Side projects and regular contributor to the Ricochet project, which is inside the Superfluid ecosystem."
     },
     {
-      "CompanyName": "Some Company",
-      "specialization": "Some specialization",
-      "MonthOfLeaving": "Jan",
-      "YearOfLeaving": "2018",
-      "Achievements": "Some Achievements"
+      "CompanyName": "Full-Stack Web Developer",
+      "specialization": "Java technologies",
+      "MonthOfLeaving": "Oct 2018 ",
+      "YearOfLeaving": " - March 2021",
+      "Achievements": "Technologies used: Spring Boot, JPA/Hibernate, Angular, Eclipse, Maven, SQL, API REST, JSON, git, AWS. I also programmed a small project in Android."
+    },
+    {
+      "CompanyName": "Embedded Software Engineer",
+      "specialization": "Embedded Systems",
+      "MonthOfLeaving": "Jun 2013 ",
+      "YearOfLeaving": " - Oct 2016",
+      "Achievements": "I worked in England for two years. Programmer in C and other languages, using low-level communication protocols. I occasionally used Perl and Python. I mentored some placement students."
+    },
+    {
+      "CompanyName": "C Programmer and Linux admin",
+      "specialization": "C and Linux",
+      "MonthOfLeaving": "2008 ",
+      "YearOfLeaving": " - 2010",
+      "Achievements": "gcc toolchain, scripting in Linux and in Windows."
     }
   ],
   "skillsDescription": "Your skills here",
