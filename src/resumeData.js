@@ -17,10 +17,16 @@ let resumeData = {
       "className": "fa fa-github"
     },
     {
-      "name": "skype",
-      "url": "http://skype.com",
-      "className": "fa fa-skype"
+      "name": "email",
+      "url": "jose@gmail.com",
+      "className": "fa fa-envelope"
+    },
+    {
+      "name": "telegram",
+      "url": "jose@gmail.com",
+      "className": "fab fa-telegram"
     }
+
   ],
   "aboutme": "I finished my B.E. in Electronics Engineering before 2010 and have been working as a Software developer since then.",
   "address": "Spain",
