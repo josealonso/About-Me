@@ -2,6 +2,10 @@ import React, { Component } from 'react';
 export default class Header extends Component {
   render() {
     let resumeData = this.props.resumeData;
+    const descriptionStyle = {
+      textAlign: "justified",
+      lineHeight: "170%"
+    }
     return (
       <React.Fragment>
         {/*generated code*/}
@@ -22,8 +26,16 @@ export default class Header extends Component {
           <div className="row banner">
             <div className="banner-text">
               <h1 className="responsive-headline">I am {resumeData.name}</h1>
-              <h3>I am a {resumeData.role}.{resumeData.roleDescription}
+              <h3>I am a {resumeData.role}
+                <ul>
+                  <li style={descriptionStyle}>{resumeData.roleDescription1}</li>
+                  <li style={descriptionStyle}>{resumeData.roleDescription2}</li>
+                  <li style={descriptionStyle}>{resumeData.roleDescription3}</li>
+                  <li style={descriptionStyle}>{resumeData.roleDescription4}</li>
+                  <li style={descriptionStyle}>{resumeData.roleDescription5}</li>
+                </ul>
               </h3>
+
               <hr />
               <ul className="social">
                 {
@@ -45,7 +57,7 @@ export default class Header extends Component {
           </p>
 
         </header>
-      </React.Fragment>
+      </React.Fragment >
     );
   }
 }
