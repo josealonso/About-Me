@@ -5,6 +5,11 @@ let resumeData = {
   "linkedinId": "Your LinkedIn Id",
   "skypeid": "Your skypeid",
   "roleDescription": "I specially like Computer Science subjects when I was in college. I learnt GNU/Linux by myself. I started my career as a C programmer and Linux admin. Later I joint a bootcamp to be a web developer. At work I used Java technologies(Spring Boot, Hibernate), SQL databases, git, AWS, Angular, Material Design components and other tools and frameworks. On 2020 I learnt about the blockchain technology, initially as an investor. I ended up being so amazed by the technological opportunities that I quit my job in March 2021. I have been a full time Solidity and DApp developer since November 2021.",
+  "roleDescription1": "I have been a full time Solidity and DApp developer since November 2021.",
+  "roleDescription2": " On 2020 I learnt about the blockchain technology, initially as an investor. I was so amazed by the technological opportunities that I quit my web developer job in March 2021.",
+  "roleDescription3": "At work I used Java technologies(Spring Boot, Hibernate), SQL databases, git, AWS, Angular, Material Design components and other tools and frameworks.",
+  "roleDescription4": "I started my career as a C programmer and Linux admin. Later I joint a bootcamp to be a web developer.",
+  "roleDescription5": "I specially like Computer Science subjects when I was in college. I learnt GNU/Linux by myself.",
   "socialLinks": [
     {
       "name": "linkedin",
