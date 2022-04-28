@@ -1,27 +1,32 @@
 import React, { Component } from 'react';
 export default class About extends Component {
-  render() {
-    let resumeData = this.props.resumeData;
-    return (
-      <section id="about">
-         <div className="row">
+   render() {
+      let resumeData = this.props.resumeData;
+      return (
+         <section id="about">
+            <div className="row">
 
-            <div className="three columns">
+               <div className="three columns">
 
-               <img className="profile-pic"  src="images/profilepic.jpg" alt="" />
+                  <img className="profile-pic" src="images/profilepic.jpg" alt="" />
 
-            </div>
+               </div>
 
-            <div className="nine columns main-col">
+               <div className="nine columns main-col">
 
-               <h2>About Me</h2>
-               <p>
-               {
-                 resumeData.aboutme
-               }
-               </p>
+                  <h2>About Me</h2>
+                  <p>
+                     {
+                        resumeData.aboutme1
+                     }
+                  </p>
+                  <p>
+                     {
+                        resumeData.aboutme2
+                     }
+                  </p>
 
-               <div className="row">
+                  {/* <div className="row">
 
                   <div className="columns contact-details">
 
@@ -36,10 +41,10 @@ export default class About extends Component {
                     <span>{resumeData.website}</span>
        					   </p>
                   </div>
+               </div> */}
                </div>
             </div>
-         </div>
-      </section>
-    );
-  }
+         </section>
+      );
+   }
 }

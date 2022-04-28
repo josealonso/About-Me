@@ -42,7 +42,9 @@ let resumeData = {
     //   "className": "fa fa-telegram"
     // }
   ],
-  "aboutme": "I finished my studies on Electronics Engineering and Computer Science before 2010. I have been working as a Software developer ever since.",
+  "aboutme1": "I finished my studies on Electronics Engineering and Computer Science before 2010. I have been working as a Software developer ever since.",
+  "aboutme2": "Feel free to contact me for any work or suggestions.",
+  "aboutme3": "My email address and links to my social networks profiles can be found at the bottom of this page.",
   "address": "Spain",
   "website": "https://josealonso.github.io/About-Me/",
   "education": [
