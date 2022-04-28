@@ -18,12 +18,22 @@ let resumeData = {
     },
     {
       "name": "github",
-      "url": "http://github.com/josealonso",
+      "url": "https://github.com/josealonso",
       "className": "fa fa-github"
     },
     {
+      "name": "twitter",
+      "url": "https://twitter.com/CompluW",
+      "className": "fa fa-twitter"
+    },
+    {
+      "name": "discord",
+      "url": "My email is jose.alonso.programmer@gmail.com",
+      "className": "fa fa-discord"
+    },
+    {
       "name": "email",
-      "url": "jose@gmail.com",
+      "url": "My email is jose.alonso.programmer@gmail.com",
       "className": "fa fa-envelope"
     },
     {
