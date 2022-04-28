@@ -4,12 +4,12 @@ let resumeData = {
   "role": "Solidity and DApp Developer",
   "linkedinId": "Your LinkedIn Id",
   "skypeid": "Your skypeid",
-  "roleDescription": "I specially enjoyed Computer Science subjects when I was in college. I learnt GNU/Linux by myself. I started my career as a C programmer and Linux admin. Later I joint a bootcamp to be a web developer. At work I used Java technologies(Spring Boot, Hibernate), SQL databases, git, AWS, Angular, Material Design components and other tools and frameworks. On 2020 I learnt about the blockchain technology, initially as an investor. I ended up being so amazed by the technological opportunities that I quit my job in March 2021. I have been a full time Solidity and DApp developer since November 2021.",
+  "roleDescription": "I specially enjoyed Computer Science subjects when I was in college. I learnt GNU/Linux by myself. I started my career as a C programmer and Linux admin. Later I joint a bootcamp to be a web developer. At work I used Java technologies (Spring Boot, Hibernate), SQL databases, git, AWS, Angular, Material Design components and other tools and frameworks. On 2020 I learnt about the blockchain technology, initially as an investor. I ended up being so amazed by the technological opportunities that I quit my job in March 2021. I have been a full time Solidity and DApp developer since November 2021.",
   "roleDescription1": "I have been a full time Solidity and DApp developer since November 2021.",
   "roleDescription2": " On 2020 I learnt about the blockchain technology, initially as an investor. I was so amazed by the technological opportunities that I quit my web developer job in March 2021.",
   "roleDescription3": "At work I used Java technologies(Spring Boot, Hibernate), SQL databases, git, AWS, Angular, Material Design components and other tools and frameworks.",
   "roleDescription4": "I started my career as a C programmer and Linux admin. Later I joint a bootcamp to be a web developer.",
-  "roleDescription5": "I specially like Computer Science subjects when I was in college. I learnt GNU/Linux by myself.",
+  "roleDescription5": "I specially enjoyed Computer Science subjects when I was in college. I learnt GNU/Linux by myself.",
   "socialLinks": [
     {
       "name": "linkedin",
@@ -26,24 +26,23 @@ let resumeData = {
       "url": "https://twitter.com/CompluW",
       "className": "fa fa-twitter"
     },
-    {
-      "name": "discord",
-      "url": "My email is jose.alonso.programmer@gmail.com",
-      "className": "fa fa-discord"
-    },
+    // {
+    //   "name": "discord",
+    //   "url": "My email is jose.alonso.programmer@gmail.com",
+    //   "className": "fa fa-discord"
+    // },
     {
       "name": "email",
-      "url": "My email is jose.alonso.programmer@gmail.com",
+      "url": "mailto: jose.alonso.programmer@gmail.com",
       "className": "fa fa-envelope"
     },
-    {
-      "name": "telegram",
-      "url": "jose@gmail.com",
-      "className": "fab fa-telegram"
-    }
-
+    // {
+    //   "name": "telegram",
+    //   "url": "jose@gmail.com",
+    //   "className": "fa fa-telegram"
+    // }
   ],
-  "aboutme": "I finished my B.E. in Electronics Engineering before 2010 and have been working as a Software developer since then.",
+  "aboutme": "I finished my studies on Electronics Engineering and Computer Science before 2010. I have been working as a Software developer ever since.",
   "address": "Spain",
   "website": "https://josealonso.github.io/About-Me/",
   "education": [
