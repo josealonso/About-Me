@@ -76,7 +76,7 @@ let resumeData = {
       "specialization": "Solidity, hardhat, TS",
       "MonthOfLeaving": "Nov. 2021",
       "YearOfLeaving": " - currently",
-      "Achievements": "Side projects and regular contributor to the Ricochet project, which is inside the Superfluid ecosystem."
+      "Achievements": "Side projects and contributor to the Ricochet project, which is inside the Superfluid ecosystem."
     },
     {
       "CompanyName": "Full-Stack Web Developer",
@@ -114,25 +114,15 @@ let resumeData = {
   ],
   "portfolio": [
     {
-      "name": "project1",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/phone.jpg"
+      "name": "ERC20 Token Generator",
+      "description": "Generate your own ERC20 token. You need to connect your MetaMask wallet",
+      "imgurl": "https://my-web3-boilerplate.vercel.app/"
     },
     {
-      "name": "project2",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/project.jpg"
+      "name": "twitter-clone",
+      "description": "Responsive twitter clone app, you need a Google account to sign in",
+      "imgurl": "https://twitter-clone-josealonso.vercel.app/"
     },
-    {
-      "name": "project3",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/project2.png"
-    },
-    {
-      "name": "project4",
-      "description": "mobileapp",
-      "imgurl": "images/portfolio/phone.jpg"
-    }
   ],
   "testimonials": [
     {
